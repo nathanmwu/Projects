@@ -12,7 +12,7 @@ A project focused on logical reasoning and inference using Large Language Models
 An interactive natural language processing project that explores text generation and manipulation.
 
 ### DeepLearn
-A collection of deep learning experiments and implementations.
+An image classification project using transfer learning with the ConvNeXt model.
 
 ## Contact
 Feel free to reach out or check out my work:
